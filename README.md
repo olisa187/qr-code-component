@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/olisa187/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Qr-code-component on Netlify](https://darling-meringue-071343.netlify.app/)
 
 ## My process
 
@@ -33,8 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - desktop-first workflow
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@olisa187](https://www.frontendmentor.io/profile/olisa187)
 - Twitter - [@olisa187](https://www.twitter.com/olisa187)
 
